@@ -18,7 +18,7 @@ For dealers that DO participate, click [HERE](yes.md).
 | CA | Subaru El Cajon | |
 | CA | Stevens Creek Subaru | |
 | NC | Cross Creek Subaru | dbasset |
-| TX | Gillman Subaru | Selma RobertD |
+| TX | Gillman Subaru Selma | RobertD |
 | TX | Huffines Subaru | |
 | TX | North Park Subaru | San Antonio  |
 | TX | Subaru of Georgetown | GSM |
