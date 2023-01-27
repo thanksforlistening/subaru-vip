@@ -9,21 +9,18 @@ Crowdsourced list of Subaru dealerships that **do** and **do not** participate i
 * **[Dealers that participate in the VIP program](yes.md)**
 * [Dealers that **DO NOT** participate in the VIP program](no.md)
 
-## How to Contribute
+## Add or Update a Dealership
 
-### I want to add or update a dealership's status
+The simplest option is to **fill out this Google Form: [LINK TO FORM](https://forms.gle/7XwP854e5ymDgcyKA)** (No google account needed)
 
-Great, thanks!
+Alternatively, if you have a (free) GitHub account, you can also:
 
-You can either:
+* [Create an issue](https://github.com/thanksforlistening/subaru-vip/issues/new?assignees=thanksforlistening&labels=&template=add-or-update-dealership-information.md&title=Update+dealer+information) with a note on what should be updated
+* OR fork/clone this repo, update the chart yourself, and [make a pull request](https://github.com/thanksforlistening/subaru-vip/compare)
 
-* Fill out this Google Form: [LINK TO FORM](https://forms.gle/7XwP854e5ymDgcyKA) (No google account needed)
-* [Create an issue](https://github.com/thanksforlistening/subaru-vip/issues/new?assignees=thanksforlistening&labels=&template=add-or-update-dealership-information.md&title=Update+dealer+information) with a note on what should be updated (GitHub account required (free))
-* OR fork/clone this repo, update the chart yourself, and [make a pull request](https://github.com/thanksforlistening/subaru-vip/compare) (GitHub account required (free))
+**I'll need to approve any updates** before they goes live, so please be patient.
 
-Either way, I'll need to approve it before it goes live, so please be patient.
-
-Check other open issues or pull requests before adding your own to make sure someone else hasn't already requested this same change.
+Check other [open issues](https://github.com/thanksforlistening/subaru-vip/issues) or [pull requests](https://github.com/thanksforlistening/subaru-vip/pulls) before adding your own to make sure someone else hasn't already requested this same change.
 
 ## More info
 
