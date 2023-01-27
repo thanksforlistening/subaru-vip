@@ -17,7 +17,7 @@ Great, thanks!
 
 You can either:
 
-* [Create an issue](https://github.com/thanksforlistening/subaru-vip/issues/new/choose) with a note on what should be updated
+* [Create an issue](https://github.com/thanksforlistening/subaru-vip/issues/new?assignees=thanksforlistening&labels=&template=add-or-update-dealership-information.md&title=Update+dealer+information) with a note on what should be updated
 * OR fork/clone this repo, update the chart yourself, and [make a pull request](https://github.com/thanksforlistening/subaru-vip/compare)
 
 Either way, I'll need to approve it before it goes live, so please be patient.
