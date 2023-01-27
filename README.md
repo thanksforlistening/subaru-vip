@@ -6,8 +6,8 @@ Crowdsourced list of Subaru dealerships that **do** and **do not** participate i
 
 ## Here are the lists
 
-* [Dealers that participate in the VIP program](yes.md)
-* [Dealers that DO NOT participate in the VIP program](no.md)
+* **[Dealers that participate in the VIP program](yes.md)**
+* [Dealers that **DO NOT** participate in the VIP program](no.md)
 
 ## How to Contribute
 
