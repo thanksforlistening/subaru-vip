@@ -13,8 +13,8 @@ For dealers that DO participate, click [HERE](yes.md).
 | CA | Kearny Mesa Subaru | |
 | CA | Livermore Subaru | |
 | CA | Modesto Subaru | |
-| CA | Premier Subaru | of Fremont | |
-| CA | Putnam Subaru | of Burlingame | | 
+| CA | Premier Subaru of Fremont | |
+| CA | Putnam Subaru of Burlingame | | 
 | CA | Subaru El Cajon | |
 | CA | Stevens Creek Subaru | |
 | NC | Cross Creek Subaru | dbasset |
