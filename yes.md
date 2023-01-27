@@ -61,5 +61,5 @@ For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 | WA | Michael's Subaru | |
 | WA | Tacoma Subaru | |
 | WI | Bergstrom Subaru | bentld1 |
-| WI | Don Miller Subaru East |
+| WI | Don Miller Subaru East | | 
 | WI | Kenosha Subaru | |
