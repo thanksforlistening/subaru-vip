@@ -20,6 +20,6 @@ For dealers that DO participate, click [HERE](yes.md).
 | NC | Cross Creek Subaru | dbasset |
 | TX | Gillman Subaru Selma | RobertD |
 | TX | Huffines Subaru | |
-| TX | North Park Subaru | San Antonio  |
+| TX | North Park Subaru San Antonio  | |
 | TX | Subaru of Georgetown | GSM |
 | WV | River City Subaru | TFL |
