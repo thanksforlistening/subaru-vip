@@ -18,8 +18,8 @@ For dealers that DO participate, click [HERE](yes.md).
 | CA | Subaru El Cajon | |
 | CA | Stevens Creek Subaru | |
 | NC | Cross Creek Subaru | dbasset |
+| TX | Cleo bay Subaru |  usa_freedom |
 | TX | Gillman Subaru Selma | RobertD |
 | TX | Huffines Subaru | |
 | TX | North Park Subaru San Antonio  | |
-| TX | Subaru of Georgetown | GSM |
 | WV | River City Subaru | TFL |

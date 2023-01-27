@@ -2,8 +2,8 @@
 
 For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 
-| State | Dealer | Thanks to |
-|-------|--------|-----------|
+| State | Dealer | Thanks to | Notes |
+|-------|--------|-----------|-------|
 | AL | Landers McClarty Subaru | aarlee |
 | AZ | Subaru Super Store | |
 | AZ | Tuscon Subaru | The Green Lantern |
@@ -52,6 +52,7 @@ For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 | OR | Wilsonville Subaru | |
 | PA | Glanzmann Subaru | |
 | PA | Reedman-Toll Subaru | skibum00 |
+| SC | Crews Subaru (aka Charleston Subaru) | 4wheelin |
 | TX | Gillman Subaru North | mcgrathk1 |
 | TX | Subaru of Austin | Persimmon |
 | TX | West Houston Subaru | |
