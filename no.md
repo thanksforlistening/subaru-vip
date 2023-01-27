@@ -17,9 +17,10 @@ For dealers that DO participate, click [HERE](yes.md).
 | CA | Putnam Subaru of Burlingame | | 
 | CA | Subaru El Cajon | |
 | CA | Stevens Creek Subaru | |
+| ID | Treasure Valley Subaru | Idaho Oak |
 | NC | Cross Creek Subaru | dbasset |
 | TX | Cleo bay Subaru |  usa_freedom |
+| TX | Gillman Subaru North | RobertD |
 | TX | Gillman Subaru Selma | RobertD |
 | TX | Huffines Subaru | |
-| TX | North Park Subaru San Antonio  | |
 | WV | River City Subaru | TFL |
