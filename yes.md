@@ -39,6 +39,7 @@ For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 | FL | Melbourne JLRacer |
 | FL | Reeves Subaru | pw- |
 | FL | Subaru of Daytona Beach | Accent |
+| GA | Gerald Jones Subaru | | |
 | GA | Subaru of Gwinnett | ktcred |
 | GA | Troncalli Subaru | frunobulax | |
 | IA | Baldwin Subaru |  Radzer0 |
