@@ -96,8 +96,13 @@ For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 | VA | Sheehy Subaru | ascentour | 
 | VA | Stohlman Subaru | ascentour | 
 | VA | Umansky Subaru | ascentour | 
+| WA | Bud Clary Subaru | |
+| WA | Dwayne Lane's Skagit Subaru | | Only available to residents within 30 miles of the dealership |
 | WA | Eastside Subaru | |
+| WA | Koenig Subaru | |
+| WA | McCurley Subaru of Yakima| |
 | WA | Michael's Subaru | |
+| WA | Peninsula Subaru | |
 | WA | Tacoma Subaru | |
 | WI | Bergstrom Subaru | bentld1 |
 | WI | Don Miller Subaru East | | 

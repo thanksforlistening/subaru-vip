@@ -23,4 +23,5 @@ For dealers that DO participate, click [HERE](yes.md).
 | TX | Gillman Subaru North | RobertD |
 | TX | Gillman Subaru Selma | RobertD |
 | TX | Huffines Subaru | |
+| WA | Dewey Griffin Subaru | |
 | WV | River City Subaru | TFL |
