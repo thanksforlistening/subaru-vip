@@ -1,5 +1,7 @@
 # Subaru VIP Dealership Participation List
 
+_Last updated July 2, 2023._
+
 ## Overview
 
 Crowdsourced list of Subaru dealerships that **do** and **do not** participate in the Subaru VIP program.

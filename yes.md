@@ -1,5 +1,7 @@
 # Dealers that participate in the VIP program
 
+_Last updated July 2, 2023._
+
 For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 
 | State | Dealer | Thanks to | Notes |
