@@ -62,6 +62,7 @@ For dealers that have been confirmed to NOT participate, click [HERE](no.md).
 | MI | Suburban Subaru | |
 | MN | Walser Subaru | Hujorgen |
 | MO | Reliable Subaru | indiefab | 
+| NC | Hendrick Subaru Durham | SC | Only vehicles on lot for VIP pricing. Will not honor BRZ invoice pricing when ordering |
 | NC | Johnson Subaru | |
 | NJ | All American Subaru |  Bihanson |
 | NJ | Cherry Hill Subaru | |
