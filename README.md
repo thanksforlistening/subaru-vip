@@ -1,6 +1,6 @@
 # Subaru VIP Dealership Participation List
 
-_Last updated July 2, 2023._
+_Last updated September 5, 2024._
 
 ## Overview
 
@@ -50,8 +50,8 @@ This list is not officially related to Subaru in any way.
 
 Forum post:
 
-https://www.ascentforums.com/threads/who-accepts-subaru-vip-pricing-master-list.2669/
+[https://www.ascentforums.com/threads/who-accepts-subaru-vip-pricing-master-list.2669/](https://www.ascentforums.com/threads/who-accepts-subaru-vip-pricing-master-list.2669/)
 
-Google sheet:
+s2kutah's Google sheet:
 
-https://docs.google.com/spreadsheets/d/1Hieey9A4iC0cka9RbsSu8AvdwUOf4PmY9NYyyNaMnds/edit#gid=0
+[https://docs.google.com/spreadsheets/d/1Hieey9A4iC0cka9RbsSu8AvdwUOf4PmY9NYyyNaMnds/edit#gid=0](https://docs.google.com/spreadsheets/d/1Hieey9A4iC0cka9RbsSu8AvdwUOf4PmY9NYyyNaMnds/edit#gid=0)
